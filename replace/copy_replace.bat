@@ -1,4 +1,5 @@
 @echo on
+rem xcopy understands UNC-paths in contrast to copy
 @set src=\\s527-fs02\work\VERSII\_softclu\SCBKI\2017\rask\*
 
 @set dest=\\s527-card\Work\cirrus\*
